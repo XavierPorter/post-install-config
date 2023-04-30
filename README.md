@@ -124,7 +124,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<h2>7. Configure SLA</h2>
+<h2>7. Configure SLA's</h2>
 <p>
 <img src="https://i.imgur.com/0PVyvcx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
