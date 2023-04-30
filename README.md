@@ -109,23 +109,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<h2>6. Configure </h2>
+<h2>6. Configure Users (customers)</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wGXyBcc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<ol>
+    <li>Agent Panel -> Users -> Add New</li>
+    <li>Add: Karen</li>
+    <li>Add: Ken</li>
+  </ol>
 </p>
 <br />
 
 
 
-<h2>7. Configure </h2>
+<h2>7. Configure SLA</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0PVyvcx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <ol>
+    <li>Admin Panel -> Manage -> SLA</li>
+    <li>Add new SLA Plan</li>
+    <li>Sev-A (1 hour, 24/7)</li>
+    <li>Sev-B (4 hours, 24/7)</li>
+    <li>Sev-C (8 hours, business hours)</li>
+  </ol>
 </p>
 <br />
 
@@ -143,13 +153,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-<h2>9. Configure </h2>
-
+<h2>9. Configure Help Topics </h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ltqaLPS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <ol>
+    <li>Admin Panel -> Manage -> Help Topics</li>
+    <li>Add new Help Topics -></li>
+    <li>Business Critical Outage</li>
+    <li>Personal Computer Issues</li>
+    <li>Equipment Request</li>
+    <li>Password Reset</li>
+ </ol>
 </p>
 <br />
